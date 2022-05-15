@@ -2,7 +2,7 @@
 - 👀 I’m interested in DS
 - 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me anywhere
+- 📫 How to reach me anywhere ez
 
 <!---
 adsrt/adsrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
